@@ -52,3 +52,9 @@ The NFT Royalty Distribution System has substantial room for expansion and enhan
 12. **Integration with NFT Marketplaces**: Direct partnerships with Core DAO NFT marketplaces for seamless royalty handling
 
 This initial implementation serves as a foundational building block for a comprehensive royalty management ecosystem that can evolve alongside the growing NFT economy on Core DAO.
+
+Contract Address:
+0xcd7ef4ba5a6978341212fcf4a466e140cb4ecad0
+
+![Uploading image.png…]()
+
